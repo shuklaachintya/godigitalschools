@@ -1,0 +1,36 @@
+@font-face {
+    font-family: CircularStd-Book;
+    src: url(../../../../assets/fonts/CircularStd-Book.woff);
+  }
+
+.pageWidth {
+	width: 87%;
+	height: 87%;
+	
+	position: absolute;
+	top:5%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}
+
+.titlePage {
+
+    font-family: CircularStd-Book !important;
+    margin: 12px 0px 24px 0px;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #323232;
+}
+
+.toggleBtns {
+  position: relative;
+  float: right;
+}

@@ -1,0 +1,105 @@
+{
+
+
+  "logo": {
+      "showStatus": true,
+      "name": "Podium",
+      "link": "/",
+      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAwADADAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgGCQoABf/EADgQAAEEAgEDAgIBFQAAAAAAAAQCAwUGAQcIABETCRQSISIWFzEyMzVBUVVhcXN2d3iRl6GzttH/xAAaAQACAwEBAAAAAAAAAAAAAAAGBwAFCAQD/8QAOxEAAgMAAQMDAAQKCQUAAAAAAgMBBAUGABESBxMhFBUiQQgkMTQ1UXF1drUWM1NhYnJ3laGxsrPB0//aAAwDAQACEQMRAD8A38dTqdd1Op0tfKDlDTOJtDZ2ZsSo7KsFKSciPmJrXtbAsjVYdIy2gEiyMkzkQRGx0g+57MaU8T0eg7xBGEilGxzRhPxTil3l+hOVm3cutelcsQjSssqzbge8sCqQV3C1qxjzJXcWSvyMBMVskBvk/J6fFKI6WhU0rFL3Pbc7PrLsxVku0AVmCeklLYU+At7EuGdgMgI1wdcD3r38J2u/wVnkAR+po1OT3/R7jY7H9+3TNH8HvnJfltcdD/Nfuz/25hdLqfXjhkd+1XfL9lGl8/s8tIf+e3TK8VvVO4q8uLsVrmiyFwpd2wwkmEgNoxUDXCbchOFqKZqxEPZ7KDInAoRh0iLfKDlHWFKJBDLHGMdGF+W+k3LeHUQ0tBdK9R8pB9nJdYshTn48Jti+pVYtbJmYFogaoKPFhgRBBknFvVHi3Lbp51E7lK74+SK+oqvXK5Ed5OKpJtWQYYRHclEQNke5ABiJyNj3Sz6YvQz2ts6I1bVJSwF+xkZUSPekIusOTAsXJzzQhQAx2Y/DzZL7jQGJAd019gIlAyHGvNhHmbzm94/hWN/Sr0lyxCGuFT70VzemrJraxfu+JLGCb7JisCaEnMF49/GehnlfJqvFce5puFVmxXrlYr5s211rF0VuQpvseYsORT9IWbTBLIXEj5xHmM9eKFa93k5xkrTtUj0Z7d0v7d8zycfh+gJr59nKvzYIwnv8vj7fPrpbn8VD4XyTRdPz8hxyBD+75ZtAcR98z4TPb7pn464Ea3OWT3bw3Jrj8fDOXybIj7/hPHmBMx+rziP8XQQ5m7ksusOI2/bq/q4mVnYjXc2KFXjRoS5VqRVMtIhSJKQGSsliSrteYknJ6wx85FBe8hI2R7hviNFrZt+GYVPT5jx6iraXFZ2lXJllc2s+4mElLxUEkIyqzZJUV6za1hsBYaqPcBhLguble/ez+Jb9u1hNXaTnuAK7CqaVF8uiEmzyWRQ2tWFs2LCrlasTEKbMJNYskcOB9CGvNRkti66GbU9WhElbOogy8Kkao0p5LOLnXw1rUVJ68NddZbOeH9wTSJRzMfOJZhy6/MSm7V6J591WZpnPjaOQydAon2rc9pL6BZOIgFaa4gpXBeIX0x7qJl4WEqxcdEb1Ruhnh81RgtOiM92VRme302uEzJtzzmYhhD5FRbPt2PFR12tD8fIHxB4MrFHGRkpGFjSEbJR5LwR8eeG8ggQ0EwZbRAhYpDbb4xLDjbzDzaHWlpWlKsXbVLctiXLBqmgS2qaAsWxZjImtgFEiYGMyJCUSJDMxMTE9VK2MUwGqM1NUYsWxZEDFsAoIDAxmCAwKIISGYISiJiYmOtXnph+rqBtdMBx+5Sz4cVtLORoehbSkcsAROxVdkMAwNsIypsSMvbqvhZj5NSRo62uZbEd9tZlsJsORPVT0cZj/AEjkXE65uyYgnaGSvyY7Mj5JlioPybc8Y+0xXcm047nHlVgprao9M/VpepCMDlFgFancU0NRniCdH8ggi2czAqvTP2VsmBXbnsE+NmRiw5u/xRZHdvJKQPZQYZWeMenwa8+Rjyrhh7HtG2vzqI7C85SJmWdi43J7rKUukICHbcWppvCOqbhrDTx7hSVFK13ebcjdbEPsxZOlg0Qqy6Y7SyK4vd7QlMiEtMhiCKZms9RlrfyH1Dc4BY3P9POLqpGceRVQvclvnchHfv7c2Sro94h7EcKASmRGI6s76R3WkOhtsSNj5h+hxEsEJJxUpcDY6Sjjx2iwZCPN1/ehjAjBX0rZJFKHdcYIYeQtp5lxbbiVIVnGbrHaxKtlyWGpqstbVNWUgxbF7GSQMAxmCEwKIISGYkSiJiYmOh7eWt1jjqWgDVN22LYtgwYMWeDuCYGJRIkJDMiQzExMTMTHbrOzyQ9GXdOqNq53dwJsEWWGxJES4GrbDLgxU9XlneVs+vQ0nZO1Tt9LMFfKjyoa4SEc65CkqhZL6pGnSCXNF8Z9bcPXyPqL1BrOBhKFLNeqljUWPb7Suy5Vb8cpXlkIMB9JbYh4w9cVZgRhFcj9HNrK1Z2+CPUYC0nLy7DlqfXk+8MrpZZ/FLdIwIlkm4xcykpS36TEkUoBO8ZPUXTMSYbvEXWFOQEKZLyCs6E4tg16JjRvI4dLPW+1QJ4oMSGhK3H5IiypjgmUZcU+y2nKsMWryj03lKTXzDYvk1i66Yjf5a2y57OwqrjSpvWbHsmYgFDVlzCmIgSKe3S+tce58pzgbxfIoQlLLTvPF4qqtXrK7k2yy3bSYKrKiJk3sswlYxMkcRHxfhxY4y6i0pWuJdD3VCaQnd7bKr+yrdPNyEDq8g+fmyoiJsLsDU2IsJUfNw9Ehnho5t6r4MhlqDOnwV+CUdfcz1y3lGxt2+Y38R+9Xwsu1l0q/hY1gCsgHOqw+5Lj92u/QeJMkbftvjzCuyPJMBD54rxzHyKvEaeurDsbWpW0brpJGWZWWsSqzCacJCVWEUkkICVXzQXgdhc+LZKSTvTPbcHK/P4uN2hPs/vNvfb+fXVxH9B8A/jHlv8AI8voQ9Qf056n/wAAcM/55Hq9Wa9JDrRvUDuX341r+3i/9Fu/Vvmfm27+6I/m2V1Q7P55xr9/F/ItzqedVHV90ifKH7pyB/gd3N/hkemtwb+p4n/qlxv/AKp6SfqH+keZ/wCi/K//ACO6n0Hx611f5jivvWfj1O3vSOvHBaiUhI2WXGLrSYyJNTIYcYcedzGow6VEKZeZ9oSWYvPkw+rGBy/yPTzv6ZYFdkDQ3dczuhMl5QVHRe5ftzBQMe5MwLvIS8wAI+O3Rvk8fzr9fhW7YXM3sTEQNQo8fGYu5ldRwzuMkXtx5EntI+JmU/Pft0I+QFVsEBt2+WuS1xs7YOtNwafpVAkDtORUdY7lUrLRLfYZ9nBldOKGcdiJgKcayxMD4KbFKDfEKGa8o76yriGjVsYOTTTsYeTtcc5Dp6yVcje+pm6FLVzqdMvbtqA4ixXbWLzrnK5NbBYsy8TCADnmRbTyLcu2sPkWzx7lXFsnEe/itdF7WzL+Pq3L4e5SeYTNa0qyPhaCGitiiW0B8wOYJ9c2y/kH1I/6VV3/AL1cfVdD+39Fv95vf+y6H/rbT/V+EF/sGV/8+gnfeYWpaLYRq9se683arZodY80NEWaqUaKlAVGBFijSCQyzGXm0kAGltNOKRlLjL7nw9+/fBNlcB3tSoy3jZPpdepWoOqyxSuaz0NhTVsNPuLghnwcpZFET3ggjv0I7XqLx3IvKpb3IfWbP0KZBcVW0KGDXsoJqWqW+FM8Sj3EOcAlMTBAwu33TBfjNvSszGx8xExvqNSMVKgiSUZIB6xrJAh8ecw2UGaI+2tTb4xQ7rb7DzalIdacQtClJVjOR52LVrObXefoyl9dhpcpmvfFimqKQYtgzPcTAxkTGfkSiYn5jopr7t20hNqs31+fXsqW+u9WFkmpyXALFNWYrkTWxZCYEMzBDMTE9p68uwTFst9e2XXatqHmNbtgbR1VadOxEnuWl16pU+vAXIdwR6XlbF7thAIcS4+qQdRlshwlLaxmmsOvIWj1rBQo2sW1d3vTjOycPeocjsI41oXb2hcbmnBjXRTkT91jxCEj8rgJmDIvEZifJ/wBZ36++ihx/1X2N3kPGdHiVWxy7Mzs/LoV9aJA7L7oEqEKrGUvKJE5ZAksB8ziYtFqMK5W6nWK688gh2Br0LCukNpylt9yLjRgVvISr6SUOqYytKVfPCVYxn546RehZi7fu3BGQi3bs2YCZiZCHuNsDMx8TIwfaZj4mY+OtIZdQqGbnUTOGFSo1KhHEdoMq1daZOIn5iCkJmI+6J6kPXJ13dDPaNHtN9hgoqrbStOqSBz8GFTVRj64dKHMoaW2iPcVZIuXFYEytfmd9uMh91bbSfMltKkLusPTo5Vlj72HQ3gNUrCtoNuKQopKJlsRSfXMmdo8R8zkBiSnxmZiYH+RZGjs1FVs7kWjxtgOhrLeYii6w4IEohBTer2VgqZnzLwATKRGPOBiYKv3ZXpb1XcFpfuuyd+7atdoJEDAelzgKQO+sMBvLQbGW4+vBjYSw3nKE5wzhecfbKVn59NrG9cr3HqIZuNxPAoUQYxo11N0zCGNLyYXd1th9yL5mPLt+qI6Se9+DvQ5Ponq73NeSaWgxSknZcjJA5UkfFQeKaiw7AM9o+z3n75memd1pxxv+tjKkhnk5tax1aojR0aLSp2F16qCMhIwNEeLEEug1cOWQyyG200yQxINltrabdy8tWFYWEbXMcnZVoSXCcGle0Dc49KrZ1/pSrLmS5lhYtvMRJEwikgNRLmCIfGO8TDC4/wAE28BuZA+oPIr+dmLRXXk3KeLNNtSuqELqsJVFdiAFQiImtwtGREvOZie7Y9AXTK67qdTr/9k="
+  },
+
+  "primaryNav":[
+    {
+     "name":"Home",
+     "link":"csc/orderscontrolsheet",
+     "secondaryMenu": false
+    },
+     {
+      "name":"",
+      "link":"/csc/",
+      "secondaryMenu": false,
+      "secondaryMenuDropDown":[
+        {
+        "name":"10 Cornell Street",
+        "link":"/csc/"
+        },
+        {
+          "name":"1 Melbourne Street",
+          "link":"/csc/"
+
+        }
+      ]
+     },
+     {
+      "name":"",
+      "link":"/csc/",
+      "secondaryMenu": false
+     },
+     {
+      "name":"",
+      "link":"/csc/",
+      "secondaryMenu": false,
+      "secondaryMenuDropDown":[
+        {
+        "name":"10 Cornell Street",
+        "link":"/csc/"
+        },
+        {
+          "name":"1 Melbourne Street",
+          "link":"/csc/"
+
+        }
+      ]
+
+     }
+],
+
+"secondaryNavBar":{
+  "visibility":true,
+  "position":"top"
+},
+
+
+  "MyApps" : {
+
+      "Apps" : {
+
+          "Default":"CSC APP",
+          "showStatus": true,
+
+          "List": [
+            {
+              "id": 1,
+              "text": "Track and Trace",
+              "path": "/csc/orderscontrolsheet"
+            }
+          ],
+
+          "Edit" : "Add",
+
+          "Activate" : false
+      }
+
+  },
+
+
+  "notification": {
+      "showStatus": true,
+      "notificationList": [
+
+      ]
+    },
+
+    "userProfile" : {
+      "showStatus": true,
+      "UserMenuList": [
+           {
+             "name": "LogOut",
+             "link" : "logout"
+           }
+      ]
+
+
+  }
+
+}

@@ -1,0 +1,255 @@
+@font-face {
+    font-family: denkOne;
+    src: url(../../assets/fonts/DenkOne-Regular.ttf);
+  }
+
+.navigation_section{
+    display:inline-flex;
+    width: 100%;
+    height:64px;
+    box-shadow: none;
+}
+.brandlogo{
+    height:48px;
+    width:48px;
+}
+.MuiPaper-elevation4{
+    box-shadow: none;
+}
+
+.title{
+    width: max-content;
+    margin-left: 15px;
+    font-family: denkOne;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.24px;
+    text-align: left;
+    color: #ff8500;
+}
+
+
+.waffle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    margin-top: 0px;
+    cursor: pointer;
+    padding: 6px;
+}
+
+.waffle:hover {   
+    background-color:  #eeeff4 !important;
+}
+
+.waffle svg:active {
+    color:#23b4c3;
+}
+
+.profile_section {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: inherit;
+    margin-right: 22px;
+}
+
+.user-menu {
+    /* border: 2px solid #23b4c3; */
+    border-radius: 50%;
+    /* margin-left: 10px; */
+    width: 40px;
+    /* height: 40px; */
+}
+
+.user-menu button {
+    background-color: #888;
+    border-radius: 50%;
+    min-width: auto;
+    padding: 5px;
+    border: 1px solid #fff;
+}
+
+.profile_item{
+    color: #000;
+    text-decoration: none;
+}
+
+.notification {
+    cursor: pointer;
+    position: relative;
+    margin-top: 6px;
+    
+
+}
+.notification button:hover {
+    background-color: transparent;   
+    box-shadow: none;
+
+}
+
+.notification button {
+    background-color: transparent;   
+    box-shadow: none;
+    margin-top: 8px;
+    position: relative;
+    width: 24px;
+    height: 24px;
+
+}
+
+.notify-count{
+    background-color: red;
+    height: 20px;
+    display: flex;
+    padding: 0 6px;
+    z-index: 1;
+    position: absolute;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    min-width: 20px;
+    box-sizing: border-box;
+    transition: transform 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    align-items: center;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1;
+    align-content: center;
+    border-radius: 10px;
+    flex-direction: row;
+    justify-content: center;
+    top: 0;
+    right: 0;
+    transform: scale(1) translate(-50%, -50%);
+    transform-origin: 100% 0%;
+}
+
+.notification-heading {
+    padding: 17px 15px;
+    padding-top: 18px;
+    line-height: 24px;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.notification-heading h3 {
+    margin: 0px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
+
+
+.MuiList-padding {
+    padding-top: 0px !important;
+    padding-bottom:0px !important;
+}
+
+.MuiListItemText-primary {
+    font-size: 14px !important;
+}
+
+.notification .MuiMenu-paper{ 
+    overflow: inherit !important;
+}
+
+.notification .MuiMenu-list{
+    position: relative;
+}
+
+.notification .MuiMenu-list:after{
+    top: -11%;
+    left: 70%;
+    margin-left: 15%;
+    content: '';
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #fff;
+    position: absolute;
+}
+
+
+.waffle button:hover {
+    background-color: transparent !important;
+}
+
+.MuiBackdrop-root {
+    background-color: transparent !important;
+}
+
+.MuiListItemIcon-root {
+    float: left;
+    min-width: 45px !important;
+}
+
+.MuiListItemText-root{
+    float: left;
+    margin-top: 0px !important;
+}
+
+.menu{
+    /* font-family: Circular Std; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15px;
+    color: #323232;
+
+
+}
+
+.form-control{
+    min-height:100%
+    
+}
+
+.link{
+    text-decoration-line: none !important;
+    color:black;
+    
+}
+
+.waffle-icon{
+    height: 1.5rem;
+}
+
+.waffle-text{
+    padding-top: 2px;
+}
+
+.onClicked{
+    text-decoration-line: none !important;
+    color:black;
+    border-bottom:3px solid #23B4C3
+
+}
+.text-link{
+    /* font-family: Circular Std !important;  */
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15px;
+
+    /* Charcoal */
+
+    color: #323232;
+    padding-top: 4px;
+}
+
+.MuiList-padding-dropdown{
+    padding:8px 0px !important
+}

@@ -1,0 +1,58 @@
+// To Do
+export const GET_MYAPPS_METADATA = 'GET_MYAPPS_METADATA';
+
+//Waffle App Actions
+export const CHANGE_WAFFLE_SELECTED_TITLE = 'CHANGE_WAFFLE_SELECTED_TITLE';
+export const CHANGE_HEADER_TITLE = "CHANGE_HEADER_TITLE";
+
+//Table Actions
+export const UPDATE_REQUEST_DATA = 'UPDATE_REQUEST_DATA';
+export const GET_REQUEST_DATA = 'GET_REQUEST_DATA';
+export const TABLE_DATA_ERROR = 'TABLE_DATA_ERROR';
+export const GET_ORDER_DETAILS = 'GET_ORDER_DETAILS'; 
+export const SET_CURRENT_ORDER_DETAIL = 'SET_CURRENT_ORDER_DETAIL';
+export const SET_HISTORY_DATA = 'SET_HISTORY_DATA'; 
+export const SET_TABLE_LINK = 'SET_TABLE_LINK'; 
+export const RESET_TABLE_LINK = 'RESET_TABLE_LINK';
+export const UPDATE_HEADER_NAMES = 'UPDATE_HEADER_NAMES'; 
+export const SET_LOADING = 'SET_LOADING';
+export const SET_TITLE = 'SET_TITLE';
+
+//Pagination Actions
+export const UPDATE_PAGINATION_DATA = 'UPDATE_PAGINATION_DATA';
+export const GET_PAGINATION_DATA = 'GET_PAGINATION_DATA'
+
+//Toggle Actions
+export const UPDATE_TOGGLE='UPDATE_TOGGLE'
+export const DELETE_TOGGLE='DELETE_TOGGLE'
+
+//Dropdown Actions
+export const DROP_VALUE='DROP_VALUE'
+
+//Customise Button Actions
+export const SET_HEADERS = 'SET_HEADERS';
+export const SET_SAVE_CONFIG = 'SET_SAVE_CONFIG';
+export const SET_COMPONENT_CONFIG = 'SET_COMPONENT_CONFIG';
+export const SET_SAVE = 'SET_SAVE';
+export const TOGGLE_CUSTOMISE_BTN = 'TOGGLE_CUSTOMISE_BTN';
+export const RESET_CUSTOM_CHECKBOXES = 'RESET_CUSTOM_CHECKBOXES';
+
+//Scheduler Actions
+export const SET_SCHEDULER_MODE = 'SET_SCHEDULER_MODE';
+export const SCHEDULER_ERROR = 'SCHEDULER_ERROR';
+export const SET_SCHEDULER_DATE = 'SET_SCHEDULER_DATE'; 
+
+// Tab Panel Actions
+export const SET_TAB_PANEL = 'SET_TAB_PANEL';
+
+// Application Actions
+export const GET_APPLICATION_DATA = 'GET_APPLICATION_DATA';
+export const APPLICATION_DATA_ERROR = 'APPLICATION_DATA_ERROR';
+export const GET_WAFFLE_DATA = 'GET_WAFFLE_DATA';
+
+export const GET_MENU_DATA = 'GET_MENU_DATA';
+export const MENU_DATA_ERROR = 'MENU_DATA_ERROR';
+// Experience Reducer Actions
+export const GET_EXPERIENCE_DATA = 'GET_EXPERIENCE_DATA'
+export const EXPERIENCE_APP_ERROR = 'EXPERIENCE_APP_ERROR'
+export const EXP_APP_SELECTED = 'EXP_APP_SELECTED'

@@ -1,0 +1,24 @@
+.tContainerGrp {
+    height: 40px;
+    padding: 2px;
+    border-radius: 100px !important;
+    border: solid 2px #dcdcdc;
+    background-color: #ffffff;
+}
+.MuiToggleButton-root {
+    border: 0 !important;
+    width: 60px;
+    height: 32px;
+    padding: 6px 12px !important;
+    border-radius: 100px !important;
+    background-color: transparent !important;
+    text-transform: capitalize !important;
+    font-size: 14px !important;
+    line-height: 40px !important;
+    color: #323232 !important;
+    font-weight: 600 !important;
+}
+.MuiToggleButton-root.Mui-selected {
+    background-color: #19838c !important; 
+    color: #ffffff !important;
+}
